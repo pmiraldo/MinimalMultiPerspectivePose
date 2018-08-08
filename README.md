@@ -1,5 +1,5 @@
 # Solutions to the Minimal Multi-Perspective Pose
-Solutions to the Minimal Multi-Perspective Pose Problem using Points and/or Lines (ECCV18)
+Solutions to the Minimal Multi-Perspective Pose Problems using Points and/or Lines (ECCV18)
 
 If you use this code, cite the respective work:
 - P. Miraldo, T. Dias, S. Ramalingam (2018),  
