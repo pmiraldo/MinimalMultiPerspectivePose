@@ -5,12 +5,12 @@ If you use this code, cite the respective work:
 - P. Miraldo, T. Dias, S. Ramalingam (2018),  
 A Minimal Closed-Form Solution for Multi-Perspective Pose Estimation using Points and Lines,  
 European Conf. Computer Vision (ECCV) [[arXiv](https://arxiv.org/abs/1807.09970)];
-- G.H. Lee, B. Lin, M. Pollefeys, F. Fraundorfer (2015),  
-Minimal solutions for the multicamera pose estimation problem,  
-The International Journal of Robotics Research (IJRR) 34(7) (2015) 837–848; and
 - G.H Lee (2016),  
 A minimal solution for non-perspective pose estimation from line correspondences.  
 European Conf. on Computer Vision (ECCV). pp. 170–185.
+- G.H. Lee, B. Lin, M. Pollefeys, F. Fraundorfer (2015),  
+Minimal solutions for the multicamera pose estimation problem,  
+The International Journal of Robotics Research (IJRR) 34(7) (2015) 837–848; and
 
 # Solvers
 
