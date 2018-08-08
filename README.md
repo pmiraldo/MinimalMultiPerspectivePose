@@ -10,7 +10,7 @@ A minimal solution for non-perspective pose estimation from line correspondences
 European Conf. on Computer Vision (ECCV). pp. 170–185.
 - G.H. Lee, B. Lin, M. Pollefeys, F. Fraundorfer (2015),  
 Minimal solutions for the multicamera pose estimation problem,  
-The International Journal of Robotics Research (IJRR) 34(7) (2015) 837–848; and
+The International Journal of Robotics Research (IJRR) 34(7) 837–848; and
 
 # Solvers
 
